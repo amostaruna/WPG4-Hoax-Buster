@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Poster
+  - Coin
+  - CoinRed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: room
+    uniqueID: 2195140655
+    locked: 0
+  - name: objects
+    uniqueID: 1077465189
+    locked: 0
+  - name: player
+    uniqueID: 2483847155
+    locked: 0
+  - name: coin
+    uniqueID: 2976855027
+    locked: 0
+  - name: Dialogue Text Box
+    uniqueID: 3395923429
+    locked: 0
